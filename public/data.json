@@ -78,6 +78,25 @@
   },
   "projects": [
     {
+      "id": "5",
+      "title": "I-NSTEIN",
+      "description": "Built I-nstein, a geospatial OSINT platform that ingests ACLED and fuses social-media PAI (X/Twitter, Telegram, VK) to track incidents in real time, render a 3D common intelligence picture with tactical graphics, and provide entity/case management with A-1 to F-6 reliability scoring.",
+      "technologies": [
+        "Angular",
+        ".NET Core",
+        "Azure",
+        "CesiumJS",
+        "Google Maps",
+        "ACLED",
+        "Twitter API",
+        "YouTube API",
+        "Telegram API",
+        "Facebook API"
+      ],
+      "live_url": "https://www.i-nstein.app/",
+      "cover": "/assets/i-nstein.png"
+    },
+    {
       "id": "1",
       "title": "HelloCrowd",
       "description": "Developed Hellocrowd, a cutting-edge event management platform enabling real-time event creation, dynamic ticketing, attendance tracking, and customizable mobile apps, enhancing event efficiency and user experience.",

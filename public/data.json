@@ -160,53 +160,32 @@
   "workExperience": [
     {
       "id": "1",
-      "company": "Lanet Team and Solutions",
+      "company": "Lanet Team and Solutions Pvt Ltd",
       "companyWebsite": "https://lanetteam.com/",
       "role": "Software Developer",
-      "startDate": "Jun 2024",
-      "endDate": "Present",
+      "startDate": "Jan 2024",
+      "endDate": "Dec 2024",
       "keyResponsibilities": [
-        "Designed and developed user-centric web pages using PHP, JavaScript, and CSS, adhering to accessibility standards.",
-        "Customized WordPress CMS extensions and developed MySQL-based solutions to meet user requirements for various clients.",
-        "Enhanced application performance and user experience, leading to a 30% improvement in application efficiency and a 25% increase in user satisfaction.",
-        "Integrated third-party services and APIs to enhance application functionality.",
-        "Maintained backend hosting environments on Google Cloud and Firebase.",
-        "Collaborated with cross-functional teamsto deliver scalable and high-performing web solutions, ensuring timely deliveryand meeting all project milestones."
+        "Led development of scalable backend microservices using Node.js and Firebase on Google Cloud, improving resource utilization by 20%.",
+        "Automated CI/CD pipelines with Docker and Jenkins, reducing release cycles by 30% and enabling zero-downtime deployments.",
+        "Developed interactive Tableau and Power BI dashboards, cutting fraud investigation time by 50%.",
+        "Built secure REST APIs and database integrations (MySQL, MongoDB), increasing transaction throughput by 25%.",
+        "Collaborated with cross-functional teams in Agile sprints to deliver projects ahead of schedule."
       ]
     },
     {
       "id": "2",
-      "company": "Lanet Team and Solutions",
-      "companyWebsite": "https://lanetteam.com/",
-      "role": "Full Stack Developer Intern",
-      "startDate": "Jan 2024",
-      "endDate": "Jun 2024",
-      "keyResponsibilities": [
-        "Assisted in the development and maintenance of full stack applications using MEAN stack (MongoDB, Express, Angular, Node.js), NestJS, and Firebase.",
-        "Performed debugging, testing, and optimization to improve application performance and user experience.",
-        "Supported integration of third-party services and APIs under guidance from senior developers.",
-        "Collaborated with cross-functional teams to ensure timely project deliverables and meet milestones."
-      ]
-    },
-    {
-      "id": "3",
-      "company": "CreArt Solutions",
-      "companyWebsite": "https://creart.in/",
-      "role": "Web Developer Intern",
-      "startDate": "July 2023",
+      "company": "Crest Data Pvt Ltd",
+      "companyWebsite": "https://www.crestdata.ai/",
+      "role": "Software Developer",
+      "startDate": "Jun 2023",
       "endDate": "Dec 2023",
-      "technologies": [
-        "MongoDB",
-        "Express",
-        "React",
-        "Node.js"
-      ],
       "keyResponsibilities": [
-        "Designed and developed web applications using Django and Nodejs.",
-        "Built and maintained server-side APIs with Node.js and Express.",
-        "Collaborated with cross-functional teams to deliver high-quality products.",
-        "Ensured applications are responsive and performant.",
-        "Participated in Agile ceremonies and contributed to project planning."
+        "Developed and optimized user-focused web interfaces using JavaScript and PHP, boosting user engagement by 25%.",
+        "Built and maintained custom WordPress modules with database integrations, reducing content management time by 15%.",
+        "Migrated legacy systems to modern frameworks (Next.js, NestJS) to enhance performance and maintainability.",
+        "Enhanced data reporting dashboards for faster business intelligence and decision-making.",
+        "Participated in Agile ceremonies and sprint reviews, improving team velocity by 10%."
       ]
     }
   ],

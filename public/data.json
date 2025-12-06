@@ -78,6 +78,57 @@
   },
   "projects": [
     {
+      "id": "6",
+      "title": "OutreachAI (Chrome Extension)",
+      "description": "Built an MV3 Chrome extension that parses job listings and injects a responsive in-page sidebar to power AI-driven outreach. Integrated Google OAuth 2.0 and n8n for signal extraction, containerized Node.js services with Docker, and implemented CI/CD via GitHub Actions to AWS EC2/EKS using Helm with HPA autoscaling and blue/green deployments behind an ALB. Delivered around 35% higher match relevance through custom AI heuristics and centralized logging/alerting via CloudWatch and Secrets Manager.",
+      "technologies": [
+        "React",
+        "Manifest V3",
+        "Chrome Extensions",
+        "Node.js",
+        "n8n",
+        "Docker",
+        "GitHub Actions",
+        "AWS EC2",
+        "AWS EKS",
+        "Kubernetes",
+        "Helm",
+        "HPA",
+        "AWS ALB",
+        "CloudWatch",
+        "AWS Secrets Manager",
+        "Google OAuth 2.0"
+      ],
+      "live_url": "https://mailhire.me/",
+      "cover": "/assets/mailhire.png"
+    },
+    {
+      "id": "7",
+      "title": "ReplayMaster",
+      "description": "ReplayMaster is a community for sharing game replays and getting feedback. Post your clips with a cover and code, request or take on paid/booking reviews, and earn coins and badges as you help others. Every replay collects ratings and comments, with a built‑in AI guard that flags suspicious or low‑quality reviews while letting creators hide or request human checks. Profiles showcase ranks, themes, and highlights, and everything runs with secure logins, email flows, and a clean UI.",
+      "technologies": [
+        "Python",
+        "Flask",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "SQLite",
+        "AWS S3",
+        "Socket.IO",
+        "Flask-Login",
+        "CSRF",
+        "scikit-learn",
+        "joblib",
+        "SMTP",
+        "Brevo",
+        "Gunicorn",
+        "Render",
+        "Bootstrap",
+        "Jinja"
+      ],
+      "live_url": "https://pinkcat.ing/",
+      "cover": "/assets/replaymaster.png"
+    },
+    {
       "id": "5",
       "title": "I-NSTEIN",
       "description": "Built I-nstein, a geospatial OSINT platform that ingests ACLED and fuses social-media PAI (X/Twitter, Telegram, VK) to track incidents in real time, render a 3D common intelligence picture with tactical graphics, and provide entity/case management with A-1 to F-6 reliability scoring.",

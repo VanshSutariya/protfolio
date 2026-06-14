@@ -86,7 +86,7 @@ export default async function Home() {
       </section>
 
       {/* Experience Section */}
-      <section
+      {/* <section
         id="experience"
         className="container max-w-5xl mx-auto py-12 md:py-16 lg:py-20"
       >
@@ -122,7 +122,7 @@ export default async function Home() {
             </div>
           ))}
         </div>
-      </section>
+      </section> */}
 
       {/* Projects Section */}
       <section
@@ -269,7 +269,7 @@ export default async function Home() {
       </section>
 
       {/* Testimonials Section */}
-      <section
+      {/* <section
         id="testimonials"
         className="container max-w-5xl mx-auto py-12 md:py-16 lg:py-20"
       >
@@ -302,7 +302,7 @@ export default async function Home() {
             </Card>
           ))}
         </div>
-      </section>
+      </section> */}
 
       {/* Blogs Section */}
       <section

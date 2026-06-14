@@ -3,10 +3,6 @@
     "navbar": {
       "links": [
         {
-          "label": "Experience",
-          "path": "#experience"
-        },
-        {
           "label": "Projects",
           "path": "#projects"
         },
@@ -38,7 +34,7 @@
     "name": "Vansh Sutariya",
     "title": "Full Stack Developer",
     "location": "LA, California",
-    "bio": "I am a passionate full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate and bring your ideas to life."
+    "bio": "I am a passionate software developer with a strong background in building modern, scalable web applications. Lets collaborate and bring your ideas to life."
   },
   "contactInfo": {
     "email": "sutariyavansh@gmail.com",
@@ -206,6 +202,29 @@
       ],
       "code_repo_url": "https://github.com/VanshSutariya/TourPath",
       "cover": "/assets/tourpath.png"
+    },
+    {
+      "id": "7",
+      "title": "Llama MCP Streamlit Assistant",
+      "description": "Built an interactive AI assistant with Streamlit, NVIDIA NIM/Ollama, and Model Context Protocol to support chat-based tool execution through external MCP servers. Implemented async MCP client orchestration, dynamic tool discovery, configurable model/API selection, and a responsive Streamlit chat interface. Added environment-based API configuration plus Docker and Docker Compose support for portable local deployment.",
+      "technologies": [
+        "Python",
+        "Streamlit",
+        "LLaMA",
+        "NVIDIA NIM",
+        "Ollama",
+        "OpenAI SDK",
+        "Model Context Protocol",
+        "MCP",
+        "AsyncIO",
+        "python-dotenv",
+        "Docker",
+        "Docker Compose",
+        "Node.js",
+        "npx"
+      ],
+      "code_repo_url": "https://github.com/VanshSutariya/LLaMa-MCP-Streamlit",
+      "cover": "/assets/llama-mcp-streamlit.png"
     }
   ],
   "workExperience": [
